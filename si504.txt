@@ -1,0 +1,1 @@
+si504 is awesome. It provides hands on experience with bash and git. Which is fantastic.
